@@ -1,4 +1,6 @@
 # layout_practice
-June-2021
+2021.06
+
 Html, Css
+
 레이아웃 연습
